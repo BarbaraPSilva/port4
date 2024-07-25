@@ -1,0 +1,12 @@
+.corpo{
+    background-color: cadetblue;
+    width: 170vw;
+    height: 170vh;
+
+}
+h1{
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+}
